@@ -1,3 +1,10 @@
+# MacOS Desktop Files
+.DS_Store
+
+# Altium history
+hardware/History
+hardware/History/*
+
 # Prerequisites
 *.d
 
