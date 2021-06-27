@@ -62,12 +62,24 @@ void Error_Handler(void);
 #define PRSNLITY_GPIO_Port GPIOA
 #define BOARD_M_Pin GPIO_PIN_1
 #define BOARD_M_GPIO_Port GPIOA
+#define CTS_Pin GPIO_PIN_10
+#define CTS_GPIO_Port GPIOB
+#define RTS_Pin GPIO_PIN_11
+#define RTS_GPIO_Port GPIOB
+#define USB_WAKE_Pin GPIO_PIN_12
+#define USB_WAKE_GPIO_Port GPIOB
+#define TERM_Pin GPIO_PIN_13
+#define TERM_GPIO_Port GPIOB
+#define TGGL_Pin GPIO_PIN_14
+#define TGGL_GPIO_Port GPIOB
 #define ERROR_Pin GPIO_PIN_15
 #define ERROR_GPIO_Port GPIOB
-#define TX_Pin GPIO_PIN_8
-#define TX_GPIO_Port GPIOA
-#define RX_Pin GPIO_PIN_9
-#define RX_GPIO_Port GPIOA
+#define WC_Pin GPIO_PIN_7
+#define WC_GPIO_Port GPIOB
+#define USB_RESET_Pin GPIO_PIN_8
+#define USB_RESET_GPIO_Port GPIOB
+#define SUSPEND_Pin GPIO_PIN_9
+#define SUSPEND_GPIO_Port GPIOB
 /* USER CODE BEGIN Private defines */
 
 /* USER CODE END Private defines */
