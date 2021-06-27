@@ -1,6 +1,9 @@
 # MacOS Desktop Files
 .DS_Store
 
+# Glade temp files
+gui/glade/*.glade~
+
 # Altium history
 hardware/History
 hardware/History/*
