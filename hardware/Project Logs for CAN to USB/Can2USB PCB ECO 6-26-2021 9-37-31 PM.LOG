@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetD5_1 Pin=J2-A6
+Removed Pin From Net: NetName=NetD5_1 Pin=J2-B6
+Removed Pin From Net: NetName=NetD5_1 Pin=R13-2
+Removed Pin From Net: NetName=NetJ2_A7 Pin=U3-6
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-A6
+Added Pin To Net: NetName=NetJ2_A6 Pin=J2-B6
+Added Pin To Net: NetName=NetJ2_A6 Pin=R13-2
+Added Net: Name=NetJ2_A6
+Added Room: Name=IO
+Added Room: Name=Main
+Added Room: Name=USB
